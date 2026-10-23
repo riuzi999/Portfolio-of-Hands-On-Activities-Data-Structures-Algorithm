@@ -7,11 +7,10 @@
 > It collects my laboratory implementations, custom headers, and analyses written in standard C++.
 > Files are organized by term (Prelim, Midterm, and Finals), and each activity folder also holds its lab report.
 
-# 👤 About Me
-
-<img src="riuzi999.gif" width="200" alt="Profile">
 
 ## About me
+
+<img src="riuzi999.gif" width="200" alt="Profile">
 
 | | |
 |---|---|
