@@ -18,7 +18,7 @@
 | **Program** | BS Computer Engineering |
 | **Section/Course/Professor** |CPE21S4/Data Structure Algorithm/ Engr. Jimlord Quejado |
 | **School** | Technological Institute of the Philippines |
-| **Interests** | Software development, problem solving, [crypto and watching basketball] |
+| **Interests** | Software development, problem solving, crypto and watching basketball |
 | **Goal** | Software engineer and tech innovator |
 ## 💡 What I Learned in This Course
 
