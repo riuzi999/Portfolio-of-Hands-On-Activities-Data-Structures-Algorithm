@@ -34,8 +34,10 @@
 | Version control | Git and GitHub |
 | Build | CMake (optional) |
 
-</details>
 ![riuzi999](riuzi999.gif)
+
+</details>
+
 ## 🟦 Prelim Term
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
