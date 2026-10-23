@@ -51,9 +51,9 @@
   
   
   
-  </details>## 
-  
-  🟦 Prelim Term
+</details>
+
+## 🟦 Prelim Term
   
   | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
   |----------------|---------------------------|--------|------------------|
