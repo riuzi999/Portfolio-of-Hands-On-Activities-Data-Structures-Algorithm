@@ -35,7 +35,7 @@
 | Build | CMake (optional) |
 
 </details>
-
+![riuzi999](riuzi999.gif)
 ## 🟦 Prelim Term
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
