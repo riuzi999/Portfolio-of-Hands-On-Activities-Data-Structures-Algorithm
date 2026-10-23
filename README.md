@@ -50,15 +50,20 @@
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 |----------------|---------------------------|--------|------------------|
-| HOA 6 | Searching (linear and binary) | ✅ Completed | [📂 Open Directory](Midterm/HOA6/) |
-| HOA 7 | Sorting algorithms with timed benchmarks | ✅ Completed | [📂 Open Directory](Midterm/HOA7/) |
+| HOA 6.1 | Searching techniques | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%206.1%20Searching%20Techniques) |
+| HOA 7.1 | Sorting algorithms, Part 1 | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1) |
+| HOA 8.1 | Sorting algorithms, Part 2 | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2) |
+| HOA 9.1 | Tree ADT | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%209.1%20Tree%20ADT) |
+| HOA 10.1 | Graphs | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%2010.1%20Graphs) |
 
 ## 🟥 Finals Term
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 |----------------|---------------------------|--------|------------------|
-| HOA 8 | Trees and traversals | ⏳ In progress | [📂 Open Directory](Finals/HOA8/) |
-| HOA 10.1 | Graphs (adjacency list and matrix) | ⏳ In progress | [📂 Open Directory](Finals/HOA10.1/) |
+| HOA 11.1 | Basic algorithm analysis | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis) |
+| HOA 12.1 | Algorithmic strategies | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies) |
+| HOA 13.1 | Parallel algorithms and multithreading | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading) |
+| HOA 14.1 | Algorithm complexity | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%2014.1%20Algorithm%20Complexity) |
 
 ## 📂 Repository Structure
 
