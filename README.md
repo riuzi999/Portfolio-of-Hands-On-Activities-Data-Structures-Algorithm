@@ -21,7 +21,7 @@
   | **Interests** | Software development, problem solving, crypto and watching basketball |
   | **Goal** | Software engineer and tech innovator |
   
-  ## 💡 What I Learned in This Course
+  ## What I Learned in This Course
   
   - Linked lists, stacks, and queues
   - Searching and sorting algorithms
@@ -30,14 +30,14 @@
  
   </details>
   
-  ## 🎯 Key Learning Outcomes
+  ## Key Learning Outcomes
   
-  - 🧱 **Fundamental Data Structures:** Linked lists (singly and doubly), stacks, queues, and dynamic node structures.
-  - 🌳 **Trees and Graphs:** Binary search trees, tree traversals (pre-order, in-order, post-order), and graph representations.
-  - ⚡ **Sorting Algorithms:** Bubble, selection, insertion, shell, merge, and quick sort.
-  - 🔍 **Searching Techniques:** Linear search and binary search.
-  - ⏱️ **Complexity Analysis:** Big-O reasoning (O(n), O(n²), O(n log n)) and experimental timing with `std::chrono`.
-  - 🖥️ **CPU Scheduling:** FCFS vs SJF average waiting time.
+  -  **Fundamental Data Structures:** Linked lists (singly and doubly), stacks, queues, and dynamic node structures.
+  -  **Trees and Graphs:** Binary search trees, tree traversals (pre-order, in-order, post-order), and graph representations.
+  -  **Sorting Algorithms:** Bubble, selection, insertion, shell, merge, and quick sort.
+  -  **Searching Techniques:** Linear search and binary search.
+  -  **Complexity Analysis:** Big-O reasoning (O(n), O(n²), O(n log n)) and experimental timing with `std::chrono`.
+  -  **CPU Scheduling:** FCFS vs SJF average waiting time.
   
   <details>
   <summary>🛠️ <b>Technologies &amp; Tooling</b></summary>
