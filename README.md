@@ -7,13 +7,35 @@
 > It collects my laboratory implementations, custom headers, and analyses written in standard C++.
 > Files are organized by term (Prelim, Midterm, and Finals), and each activity folder also holds its lab report.
 
-**Name:** Peñaflorida, Wrio Carlo M.
+# 👤 About Me
 
-**Section:** CPE21S4  
+<img src="riuzi999.gif" width="200" alt="Profile">
 
-**Instructor:** Engr. Jimlord Quejado
+## About me
 
-![riuzi999](Assets/riuzi999.gif)
+| | |
+|---|---|
+| **Name** | Wrio Carlo M. Peñaflorida |
+| **Program** | BS Computer Engineering |
+| **Section/Course/Professor** |CPE21S4/Data Structure Algorithm/ Engr. Jimlord Quejado |
+| **School** | Technological Institute of the Philippines |
+| **Interests** | Software development, problem solving, [crypto and watching basketball] |
+| **Goal** | Software engineer and tech innovator |
+## 💡 What I Learned in This Course
+
+- Linked lists, stacks, and queues
+- Searching and sorting algorithms
+- Trees and graphs
+- Algorithm analysis and multithreading
+
+## 🎯 Goals
+
+My goal is to become a software engineer who builds technology that solves real problems. I want to keep learning, keep creating, and use my skills to innovate.
+
+## 🛠️ Skills
+
+C++ · Git and GitHub · Problem solving
+
 
 
 </details>
