@@ -8,7 +8,9 @@
 > Files are organized by term (Prelim, Midterm, and Finals), and each activity folder also holds its lab report.
 
 **Name:** Peñaflorida, Wrio Carlo M.
+
 **Section:** CPE21S4  
+
 **Instructor:** Engr. Jimlord Quejado
 
 </details>
