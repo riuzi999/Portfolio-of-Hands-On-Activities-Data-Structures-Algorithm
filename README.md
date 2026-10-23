@@ -10,7 +10,7 @@
 
 ## About me
 
-<img src="riuzi999.gif" width="200" alt="Profile">
+![riuzi999](Assets/riuzi999.gif)
 
 | | |
 |---|---|
