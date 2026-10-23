@@ -27,17 +27,7 @@
   - Searching and sorting algorithms
   - Trees and graphs
   - Algorithm analysis and multithreading
-  
-  ## 🎯 Goals
-  
-  My goal is to become a software engineer who builds technology that solves real problems. I want to keep learning, keep creating, and use my skills to innovate.
-  
-  ## 🛠️ Skills
-  
-  C++ · Git and GitHub · Problem solving
-  
-  
-  
+ 
   </details>
   
   ## 🎯 Key Learning Outcomes
