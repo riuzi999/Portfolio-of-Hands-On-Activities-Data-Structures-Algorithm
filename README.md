@@ -13,6 +13,9 @@
 
 **Instructor:** Engr. Jimlord Quejado
 
+![riuzi999](riuzi999.gif)
+
+
 </details>
 
 ## 🎯 Key Learning Outcomes
@@ -34,7 +37,7 @@
 | Version control | Git and GitHub |
 | Build | CMake (optional) |
 
-![riuzi999](riuzi999.gif)
+
 
 </details>
 
