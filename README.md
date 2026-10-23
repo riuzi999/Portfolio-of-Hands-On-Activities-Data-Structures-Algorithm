@@ -40,12 +40,11 @@
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 |----------------|---------------------------|--------|------------------|
-| HOA 1 | Functions and execution routines | ✅ Completed | [📂 Open Directory](Prelim/HOA1/) |
-| HOA 2.1 | Array and pointer manipulation | ✅ Completed | [📂 Open Directory](Prelim/HOA2.1/) |
-| HOA 3.1 | Doubly linked lists, `Playlist.h` | ✅ Completed | [📂 Open Directory](Prelim/HOA3.1/) |
-| HOA 4 | Stack ADT (array and linked list), `Stacks.h` | ✅ Completed | [📂 Open Directory](Prelim/HOA4/) |
-| HOA 5.1 | Queue ADT | ✅ Completed | [📂 Open Directory](Prelim/HOA5.1/) |
-| Culmination Header | Unified header file | ✅ Completed | [📄 View File](Prelim/Culmination.h) |
+| HOA 1.1 | Functions and execution routines | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming) |
+| HOA 2.1 | Arrays, pointers, and dynamic memory allocation | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%202.1%20Arrays%2C%20Pointers%20and%20Dynamic%20Memory%20Allocation) |
+| HOA 3.1 | Linked lists | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%203.1%20Linked%20Lists) |
+| HOA 4.1 | Stacks | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%204.1%20Stacks) |
+| HOA 5.1 | Queues | ✅ Completed | [📂 Open Directory](https://github.com/riuzi999/Portfolio-of-Hands-On-Activities-Data-Structures-Algorithm/tree/main/Hands-on%20Activity%205.1%20Queues) |
 
 ## 🟩 Midterm Term
 
