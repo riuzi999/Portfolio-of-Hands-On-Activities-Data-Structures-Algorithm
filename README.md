@@ -49,8 +49,8 @@
 
 | Module / Topic | Core Concepts / Key Files | Status | Interactive Link |
 |----------------|---------------------------|--------|------------------|
-| HOA 6 | Searching (linear and binary) | ⏳ In progress | [📂 Open Directory](Midterm/HOA6/) |
-| HOA 7 | Sorting algorithms with timed benchmarks | ⏳ In progress | [📂 Open Directory](Midterm/HOA7/) |
+| HOA 6 | Searching (linear and binary) | ✅ Completed | [📂 Open Directory](Midterm/HOA6/) |
+| HOA 7 | Sorting algorithms with timed benchmarks | ✅ Completed | [📂 Open Directory](Midterm/HOA7/) |
 
 ## 🟥 Finals Term
 
