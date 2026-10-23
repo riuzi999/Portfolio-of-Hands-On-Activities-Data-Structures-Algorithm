@@ -13,7 +13,7 @@
 
 **Instructor:** Engr. Jimlord Quejado
 
-![riuzi999](riuzi999.gif)
+![riuzi999](Assets/riuzi999.gif)
 
 
 </details>
